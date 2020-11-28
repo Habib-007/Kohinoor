@@ -21,7 +21,7 @@ class CreateUsersTable extends Migration
             $table->string('password',128);
             $table->bigInteger('password_pints')->default(0);
             $table->tinyInteger('email_verified')->default(0);
-            $table->date('email_verified_at')->nullable(0);
+            $table->date('email_verified_at')->nullable();
             $table->string('email_verified_token',88)->nullable(0);
             $table->string('facebook_id',32);
             $table->string('google_id',32);

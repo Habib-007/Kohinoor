@@ -6,7 +6,13 @@
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/></svg>
+      <img class="bd-placeholder-img" width="100%" height="100%"  src='https://scontent.fdac97-1.fna.fbcdn.net/v/t1.0-9/1483167_933307313376369_6006330647734419854_n.jpg?_nc_cat=102&ccb=2&_nc_sid=09cbfe&_nc_ohc=bEYVxVN6TrEAX-CMcCY&_nc_ht=scontent.fdac97-1.fna&oh=dd1a7ea3b14ed7b5051299033ab6bcf2&oe=5FE9B29F' preserveAspectRatio="xMidYMid slice" focusable="false" role="img">
+      <rect width="100%" height="100%" fill="#777"/>
+      <!-- </img>
+        <svg class="bd-placeholder-img" width="100%" height="100%" 
+        xmlns="http://www.w3.org/2000/svg" 
+        preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/>
+        </svg> -->
         <div class="container">
           <div class="carousel-caption text-left">
             <h1>Example headline.</h1>
@@ -16,7 +22,8 @@
         </div>
       </div>
       <div class="carousel-item">
-        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/></svg>
+      <img class="bd-placeholder-img" width="100%" height="100%"  src='https://scontent.fdac97-1.fna.fbcdn.net/v/t1.0-9/11781686_1030553520318414_450556964122522766_n.jpg?_nc_cat=104&ccb=2&_nc_sid=e3f864&_nc_ohc=T-XeA3Oh6GEAX_g5X2c&_nc_ht=scontent.fdac97-1.fna&oh=4c120302a4d27f156d8bd182ab5d440e&oe=5FE8C978' preserveAspectRatio="xMidYMid slice" focusable="false" role="img">
+      <rect width="100%" height="100%" fill="#777"/>
         <div class="container">
           <div class="carousel-caption">
             <h1>Another example headline.</h1>
@@ -26,7 +33,8 @@
         </div>
       </div>
       <div class="carousel-item">
-        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/></svg>
+      <img class="bd-placeholder-img" width="100%" height="100%"  src='https://scontent.fdac97-1.fna.fbcdn.net/v/t1.0-9/1483167_933307313376369_6006330647734419854_n.jpg?_nc_cat=102&ccb=2&_nc_sid=09cbfe&_nc_ohc=bEYVxVN6TrEAX-CMcCY&_nc_ht=scontent.fdac97-1.fna&oh=dd1a7ea3b14ed7b5051299033ab6bcf2&oe=5FE9B29F' preserveAspectRatio="xMidYMid slice" focusable="false" role="img">
+      <rect width="100%" height="100%" fill="#777"/>
         <div class="container">
           <div class="carousel-caption text-right">
             <h1>One more for good measure.</h1>
