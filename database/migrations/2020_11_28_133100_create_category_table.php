@@ -20,6 +20,7 @@ class CreateCategoryTable extends Migration
             $table->string('bannar',128)->unique();
             $table->unsignedInteger('category_id')->default(0);
             $table->timestamps();
+            $table->foreign('category_id')->references('id')->on('category')->onDelete('cascade');
         });
     }
 
