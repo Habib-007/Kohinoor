@@ -13,6 +13,6 @@ $factory->define(User::class, function (Faker $faker) {
         'email'=>$faker->email,
         'phone_number'=>$faker->phoneNumber,
         'password'=>bcrypt('secret'),
-        'email_verified_at'=>Carbon::now()
+        // 'email_verified_at'=>Carbon::now()
     ];
 });
